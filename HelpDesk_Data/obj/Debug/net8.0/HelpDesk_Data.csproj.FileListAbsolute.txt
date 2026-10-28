@@ -1,0 +1,15 @@
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\bin\Debug\net8.0\HelpDesk_Data.deps.json
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\bin\Debug\net8.0\HelpDesk_Data.runtimeconfig.json
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\bin\Debug\net8.0\HelpDesk_Data.dll
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\bin\Debug\net8.0\HelpDesk_Data.pdb
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.csproj.AssemblyReference.cache
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.AssemblyInfoInputs.cache
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.AssemblyInfo.cs
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.csproj.CoreCompileInputs.cache
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.sourcelink.json
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.dll
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\refint\HelpDesk_Data.dll
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.pdb
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\HelpDesk_Data.genruntimeconfig.cache
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Data\obj\Debug\net8.0\ref\HelpDesk_Data.dll

@@ -6,8 +6,8 @@ public class Ticket
     public required string Title { get; set; }
     public required string Description { get; set; }
     public Status TicketStatus { get; set; } = Status.Open;
-    public Priority TicketPriority { get; set; }
-    public DateTime CreatedAt { get; set; }
+    public Priority TicketPriority { get; set; } =  Priority.Medium;
+    public DateTime CreatedAt { get; set; } =  DateTime.UtcNow;
     public DateTime? UpdatedAt { get; set; }
     public DateTime? DueDate { get; set; }
     
@@ -29,24 +29,6 @@ public class Ticket
     
     
     
-    
-    
-    
-    public enum Status
-    {
-        Open,
-        InProgress,
-        Pending,
-        Resolved,
-        Closed
-    }
-    public enum Priority
-    {
-        Low,
-        Medium,
-        High,
-        Critical
-    }
     
     
 }

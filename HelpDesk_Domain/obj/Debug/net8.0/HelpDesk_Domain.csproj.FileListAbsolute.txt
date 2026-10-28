@@ -1,0 +1,12 @@
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\bin\Debug\net8.0\HelpDesk_Domain.deps.json
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\bin\Debug\net8.0\HelpDesk_Domain.dll
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\bin\Debug\net8.0\HelpDesk_Domain.pdb
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\HelpDesk_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\HelpDesk_Domain.AssemblyInfoInputs.cache
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\HelpDesk_Domain.AssemblyInfo.cs
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\HelpDesk_Domain.csproj.CoreCompileInputs.cache
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\HelpDesk_Domain.sourcelink.json
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\HelpDesk_Domain.dll
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\refint\HelpDesk_Domain.dll
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\HelpDesk_Domain.pdb
+C:\Users\sabaj\RiderProjects\HelpDesk\HelpDesk_Domain\obj\Debug\net8.0\ref\HelpDesk_Domain.dll
