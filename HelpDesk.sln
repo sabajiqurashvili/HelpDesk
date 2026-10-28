@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk_API", "HelpDesk_API\HelpDesk_API.csproj", "{CAC633ED-83D9-4FC4-A2E5-7CA5DAB45C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk_Data", "HelpDesk_Data\HelpDesk_Data.csproj", "{74DC8A30-A170-4A2D-A831-F12984A54407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk_Domain", "HelpDesk_Domain\HelpDesk_Domain.csproj", "{4DC6AB21-5E84-4606-8F7E-CB23FB45D875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC633ED-83D9-4FC4-A2E5-7CA5DAB45C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC633ED-83D9-4FC4-A2E5-7CA5DAB45C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC633ED-83D9-4FC4-A2E5-7CA5DAB45C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC633ED-83D9-4FC4-A2E5-7CA5DAB45C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DC8A30-A170-4A2D-A831-F12984A54407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DC8A30-A170-4A2D-A831-F12984A54407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DC8A30-A170-4A2D-A831-F12984A54407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DC8A30-A170-4A2D-A831-F12984A54407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC6AB21-5E84-4606-8F7E-CB23FB45D875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC6AB21-5E84-4606-8F7E-CB23FB45D875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC6AB21-5E84-4606-8F7E-CB23FB45D875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC6AB21-5E84-4606-8F7E-CB23FB45D875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

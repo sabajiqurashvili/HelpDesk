@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R9dkfz3ZpQDFrAuutAcpOQPxpN845Q9MvtynvL4B8yk=",
+  "Source": "HelpDesk_API",
+  "BasePath": "_content/HelpDesk_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
