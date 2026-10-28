@@ -22,7 +22,7 @@ public class Ticket
     public ICollection<Comment> Comments { get; set; } = new List<Comment>();
     
     //Ticket maybe assign to 1 agent 
-    public Agent? AssignedAgent { get; set; }
+    public User? AssignedAgent { get; set; }
     public int?  AssignedAgentId { get; set; }
     
     
